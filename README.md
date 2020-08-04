@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you must install dependencies, create a config.js file in the src folder with your apiKey value and export it, then you can run:
 
 ### `yarn start`
 
